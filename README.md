@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchan)
 <h1 align="center">Hi 👋, I'm Alex Atolagbe</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://instagram.com/stories/kvng_tanny/3134702594054737440?utm_source=ig_story_item_share&igshid=NjZiM2M3MzIxNA==">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01alex01&label=Profile%20views&color=0e75b6&style=flat" alt="01alex01" /> </p>
 
