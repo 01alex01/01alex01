@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [01alex01.github.io/alex/](01alex01.github.io/alex/)
 
-- 💬 Ask me about **html css and javascript**
+- 💬 Ask me about **html,css,sass preprocessor to css and javascript**
 
 - 📫 How to reach me **01atolagbealex01@gmail.com**
 
