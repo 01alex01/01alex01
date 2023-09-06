@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mac_zil1" target="blank"><img src="https://img.shields.io/twitter/follow/mac_zil1?logo=twitter&style=for-the-badge" alt="mac_zil1" /></a> </p>
 
-- 🔭 I’m currently working on [my personal portfolio](01alex01.github.io/alex/)
+- 🔭 I’m currently working on [e-commerce website personal project to showcase my skills](01alex01.github.io/alex/)
 
 - 🌱 I’m currently learning **React Native**
 
